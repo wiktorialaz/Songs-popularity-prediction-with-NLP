@@ -7,4 +7,4 @@ The global music market was worth $26bn in 2021 (IFPI, 2022). This number rises 
 It can be the outcome of a few factors like personality, connections, media appearance, years on stage and music they produce (IFPI, 2022). If focusing solely on music, thus what characteristics of a song make it more successful?
 Song features can consist of audio, metadata and lyrics. 
 
-With the use of Natural Language Processing a large amount of lyrics can be analysed. /bOur goal is to check whether it is possible to be able to predict the rank on the chart solely from the lyrics of a song./
+With the use of Natural Language Processing a large amount of lyrics can be analysed. /b/Our goal is to check whether it is possible to be able to predict the rank on the chart solely from the lyrics of a song./b/
