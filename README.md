@@ -55,3 +55,10 @@ This analysis tries to answer three different research sub questions in relation
 However, it was then inquired if it would be possible to distinguish among different levels of popularity. This was done by applying the same classification algorithms to predict whether a track is ranked among the 30 best songs in the given playlist, or in the 2nd third or 3rd third of the positions. Again, results proved that there is little room for obtaining satisfactory prediction by the exclusive observation of music lyrics.
 
 Given the observation of the results it is clear that the potential expansion of this research in the realm of NLP is quite limited, as music lyrics do not seem to be determinant in evaluating the popularity of a song. However, it could be possible to obtain more meaningful insights by applying other machine learning or deep learning techniques on different aspects of songs. While lyrics represent a relevant component, they are not necessarily fundamental: indeed, it is possible to have instrumental music or tracks where voice is used without expressing actual words. For this reason, other aspects should also be taken into account, both independently and in combination with lyric analysis. This may include numerical audio metadata as well as spectrograms of real audio samples (Pelchat & Gelowitz, 2020).
+
+
+
+
+References:
+IFPI (International Federation of the Phonographic Industry) (2022). Global Music Report 2022. IFPI
+Pelchat, N., & Gelowitz, C. M. (2020). Neural network music genre classification. Canadian Journal of Electrical and Computer Engineering, 43(3), 170-173
